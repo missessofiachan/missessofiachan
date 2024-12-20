@@ -52,6 +52,7 @@ Here are some of the technologies and tools I work with:
 ### 🎓 Certifications
 
 - **Certificate IV in Cybersecurity** - [Holmesglen TAFE](https://www.holmesglen.edu.au/)
+- **Certificate IV in Programming** - [Holmesglen TAFE](https://www.holmesglen.edu.au/)
 
 ### 🏆 Achievements
 
