@@ -6,12 +6,9 @@ of technology.
 
 ### 🛠️ About Me
 
-I am a software developer based in Australia. I specialize in cybersecurity and front-end and back-end programming. I
-enjoy tackling challenging problems and continuously expanding my skill set. I've been using computers since I was five
-years old and have always been fascinated by the endless possibilities technology offers. I am a strong believer in the
-power of technology to transform lives and make the world a better place, as it has done for me. I have completed a
-Certificate IV in Cybersecurity and am currently finishing a Certificate IV in Programming at Holmesglen TAFE. I am
-planning to undertake a Diploma in Programming the year 2025.
+I am a software developer based in Australia, specializing in cybersecurity, front-end, and back-end programming. I thrive on tackling challenging problems and continuously expanding my skill set. Fascinated by technology's endless possibilities since I started using computers at the age of five, I believe in its power to transform lives and make the world a better place, just as it has done for me.
+
+I have completed a Certificate IV in Cybersecurity and a Certificate IV in Programming at Holmesglen TAFE, where I developed a strong foundation in programming, databases, web development, and software testing. In 2025, I plan to further my education by undertaking a Diploma in Programming.
 
 ![Transgender Flag](https://emojipedia-us.s3.amazonaws.com/source/skype/289/transgender-flag_1f3f3-fe0f-200d-26a7-fe0f.png)
 
