@@ -32,6 +32,7 @@ Here are some of the tools and technologies I work with:
 
 #### **Frameworks & Libraries**
 ![.NET](https://img.shields.io/badge/-.NET-blue?style=for-the-badge&logo=.net)
+![ASP.NET MVC](https://img.shields.io/badge/-ASP.NET%20MVC-blue?style=for-the-badge&logo=dotnet)
 ![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-lightblue?style=for-the-badge&logo=express)
