@@ -24,6 +24,7 @@ Here are some of the tools and technologies I work with:
 #### **Languages**
 ![C#](https://img.shields.io/badge/-C%23-blue?style=for-the-badge&logo=c-sharp)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-lightblue?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-orange?style=for-the-badge&logo=sql)
 ![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-red?style=for-the-badge&logo=html5)
@@ -44,6 +45,7 @@ Here are some of the tools and technologies I work with:
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen?style=for-the-badge&logo=mongodb)
 ![AWS](https://img.shields.io/badge/-AWS-orange?style=for-the-badge&logo=amazon)
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel)
 ![Linux](https://img.shields.io/badge/-Linux-lightblue?style=for-the-badge&logo=linux)
 ![Windows](https://img.shields.io/badge/-Windows-blue?style=for-the-badge&logo=windows)
 ![Windows Server](https://img.shields.io/badge/-Windows%20Server-blue?style=for-the-badge&logo=windows)
@@ -55,7 +57,7 @@ Here are some of the tools and technologies I work with:
 
 ### 📂 Projects
 
-Stay tuned! I’m working on several exciting open-source and educational projects that will be shared here soon — including apps built with **Next.js**, **React**, **MongoDB**, and **.NET**.
+Stay tuned! I’m working on several exciting open-source and educational projects that will be shared here soon — including full-stack apps built with **Next.js**, **TypeScript**, **MongoDB**, and **.NET**, deployed via **Vercel** and **Docker**.
 
 ---
 
