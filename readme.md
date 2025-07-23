@@ -34,6 +34,7 @@ Here are some of the tools and technologies I work with:
 ![.NET](https://img.shields.io/badge/-.NET-blue?style=for-the-badge&logo=.net)
 ![ASP.NET MVC](https://img.shields.io/badge/-ASP.NET%20MVC-blue?style=for-the-badge&logo=dotnet)
 ![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-lightblue?style=for-the-badge&logo=express)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=bootstrap)
@@ -41,6 +42,7 @@ Here are some of the tools and technologies I work with:
 #### **Tools & Platforms**
 ![Git & GitHub](https://img.shields.io/badge/-Git%20%26%20GitHub-black?style=for-the-badge&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker)
+![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen?style=for-the-badge&logo=mongodb)
 ![AWS](https://img.shields.io/badge/-AWS-orange?style=for-the-badge&logo=amazon)
 ![Linux](https://img.shields.io/badge/-Linux-lightblue?style=for-the-badge&logo=linux)
 ![Windows](https://img.shields.io/badge/-Windows-blue?style=for-the-badge&logo=windows)
@@ -53,7 +55,7 @@ Here are some of the tools and technologies I work with:
 
 ### 📂 Projects
 
-Stay tuned! I’m working on several exciting open-source and educational projects that will be shared here soon.
+Stay tuned! I’m working on several exciting open-source and educational projects that will be shared here soon — including apps built with **Next.js**, **React**, **MongoDB**, and **.NET**.
 
 ---
 
