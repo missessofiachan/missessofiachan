@@ -10,8 +10,7 @@ Welcome to my personal GitHub page where you can explore my projects, learn more
 I'm a software developer based in Australia, specializing in **cybersecurity**, **front-end**, and **back-end programming**.  
 I've been fascinated with technology since I was five years old, and that love has only grown. Technology has transformed my life, and I’m dedicated to using it to make the world a better place.
 
-I’ve completed a **Certificate IV in Cybersecurity** and a **Certificate IV in Programming** at Holmesglen TAFE, where I built a solid foundation in software development, databases, and testing.  
-In 2025, I’m continuing my journey by studying the **Diploma of IT (Advanced Programming & Back-End Web Development)**.
+I have successfully completed my **Diploma of Information Technology (Advanced Programming & Back-End Web Development)** at Holmesglen TAFE. To further expand my expertise in how technology drives organizational success, I am currently planning to pursue a **Bachelor of Information Systems** at Holmesglen.
 
 ![Transgender Flag](https://emojipedia-us.s3.amazonaws.com/source/skype/289/transgender-flag_1f3f3-fe0f-200d-26a7-fe0f.png)
 
@@ -48,8 +47,6 @@ Here are some of the tools and technologies I work with:
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel)
 ![Linux](https://img.shields.io/badge/-Linux-lightblue?style=for-the-badge&logo=linux)
 ![Windows](https://img.shields.io/badge/-Windows-blue?style=for-the-badge&logo=windows)
-![Windows Server](https://img.shields.io/badge/-Windows%20Server-blue?style=for-the-badge&logo=windows)
-![JetBrains IDEs](https://img.shields.io/badge/-JetBrains%20IDEs-blue?style=for-the-badge&logo=jetbrains)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-blue?style=for-the-badge&logo=visual-studio)
 
@@ -67,28 +64,26 @@ Stay tuned! I’m working on several exciting open-source and educational projec
 
 ---
 
-### 🎓 Certifications
+### 🎓 Education & Certifications
 
-- **Certificate IV in Cybersecurity** – [Holmesglen TAFE](https://www.holmesglen.edu.au/)
-- **Certificate IV in Programming** – [Holmesglen TAFE](https://www.holmesglen.edu.au/)
+* 📜 **Diploma of Information Technology** (Back-End Web Development / Advanced Programming) – [Holmesglen TAFE](https://www.holmesglen.edu.au/) (2025)
+* 📜 **Certificate IV in Programming** – [Holmesglen TAFE](https://www.holmesglen.edu.au/)
+* 📜 **Certificate IV in Cybersecurity** – [Holmesglen TAFE](https://www.holmesglen.edu.au/)
 
 ---
 
 ### 🏆 Achievements
 
-**Cybersecurity Risk Analysis Certification**  
-**Completed:** 24th May 2024  
-**Institution:** Holmesglen TAFE  
+**Cybersecurity Risk Analysis Certification** **Completed:** May 2024 | **Institution:** Holmesglen TAFE  
 **Project:** Small Business Cyber Security Risk Analysis  
 **Supported By:** Victorian Government, Microsoft, NAB, CITT  
-**Summary:**  
-Successfully completed a specialized cybersecurity program targeting small business risk assessment. Developed mitigation strategies in collaboration with industry partners and contributed to real-world security evaluations.
+**Summary:** Successfully completed a specialized cybersecurity program targeting small business risk assessment. Developed mitigation strategies in collaboration with industry partners and contributed to real-world security evaluations.
 
 ---
 
 ### 📫 Connect with Me
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/sofia-mironenko-5ba958255/)
+* 🌐 [LinkedIn](https://www.linkedin.com/in/sofia-mironenko-5ba958255/)
 
 > *"Code is like humor. When you have to explain it, it’s bad."* – **Cory House**
 
