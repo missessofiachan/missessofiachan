@@ -1,7 +1,16 @@
-### 👋 Welcome to My GitHub Page!
+# 👋 Hello, I'm Sofia!
 
-Hello! I'm **Sofia**, a passionate software developer with a love for creating efficient and scalable applications.  
-Welcome to my personal GitHub page where you can explore my projects, learn more about my journey, and dive into the world of tech with me!
+I am a passionate **Software Developer** and **Cybersecurity Enthusiast** based in Australia, dedicated to creating secure, efficient, and scalable applications. 
+
+Technology has fascinated me since I was five years old. Today, I use that lifelong passion to build tools that solve real-world problems and make a positive impact.
+
+---
+
+### 🚀 Quick Overview
+
+* 🎓 **Current Focus:** Studying a **Bachelor of Information Systems (Software Development path)** at Holmesglen TAFE.
+* 🛡️ **Core Interests:** App Sec (Application Security), Full-Stack Web Development, and Cloud Architecture.
+* 🏳️‍⚧️ **Community:** Proud member of the LGBTQIA+ tech community.
 
 ---
 
@@ -10,83 +19,95 @@ Welcome to my personal GitHub page where you can explore my projects, learn more
 I'm a software developer based in Australia, specializing in **cybersecurity**, **front-end**, and **back-end programming**.  
 I've been fascinated with technology since I was five years old, and that love has only grown. Technology has transformed my life, and I’m dedicated to using it to make the world a better place.
 
-I have successfully completed my **Diploma of Information Technology (Advanced Programming & Back-End Web Development)** at Holmesglen TAFE. To further expand my expertise in how technology drives organizational success, I am currently planning to pursue a **Bachelor of Information Systems** at Holmesglen.
+I completed my **Diploma of Information Technology (Advanced Programming & Back-End Web Development)** at Holmesglen TAFE. To dive deeper into systems architecture and enterprise environments, I am currently pursuing my **Bachelor of Information Systems**, specializing in the **Software Development** pathway at Holmesglen.
 
 ![Transgender Flag](https://emojipedia-us.s3.amazonaws.com/source/skype/289/transgender-flag_1f3f3-fe0f-200d-26a7-fe0f.png)
 
 ---
 
-### 💡 Skills
-
-Here are some of the tools and technologies I work with:
+### 💡 Skills & Tech Stack
 
 #### **Languages**
-![C#](https://img.shields.io/badge/-C%23-blue?style=for-the-badge&logo=c-sharp)
-![JavaScript](https://img.shields.io/badge/-JavaScript-lightblue?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-orange?style=for-the-badge&logo=sql)
-![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-red?style=for-the-badge&logo=html5)
-![Bash](https://img.shields.io/badge/-Bash-green?style=for-the-badge&logo=gnu-bash)
-![PowerShell](https://img.shields.io/badge/-PowerShell-blue?style=for-the-badge&logo=powershell)
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/python-3572A5?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL / PostgreSQL" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+</p>
 
 #### **Frameworks & Libraries**
-![.NET](https://img.shields.io/badge/-.NET-blue?style=for-the-badge&logo=.net)
-![ASP.NET MVC](https://img.shields.io/badge/-ASP.NET%20MVC-blue?style=for-the-badge&logo=dotnet)
-![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js)
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-lightblue?style=for-the-badge&logo=express)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=bootstrap)
+<p align="left">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express" />
+  <img src="https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
 
-#### **Tools & Platforms**
-![Git & GitHub](https://img.shields.io/badge/-Git%20%26%20GitHub-black?style=for-the-badge&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker)
-![MongoDB](https://img.shields.io/badge/-MongoDB-brightgreen?style=for-the-badge&logo=mongodb)
-![AWS](https://img.shields.io/badge/-AWS-orange?style=for-the-badge&logo=amazon)
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel)
-![Linux](https://img.shields.io/badge/-Linux-lightblue?style=for-the-badge&logo=linux)
-![Windows](https://img.shields.io/badge/-Windows-blue?style=for-the-badge&logo=windows)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-blue?style=for-the-badge&logo=visual-studio)
-
----
-
-### 📂 Projects
-
-Stay tuned! I’m working on several exciting open-source and educational projects that will be shared here soon — including full-stack apps built with **Next.js**, **TypeScript**, **MongoDB**, and **.NET**, deployed via **Vercel** and **Docker**.
+#### **Tools & Infrastructure**
+<p align="left">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
+### 📂 Current Projects & Code Labs
 
-![Sofia's GitHub stats](https://github-readme-stats.vercel.app/api?username=missessofiachan&show_icons=true&theme=radical)
+| Project | Tech Stack | Description | Status |
+| :--- | :--- | :--- | :--- |
+| **NextJS Template** | Next.js, TS, MongoDB | A secure, production-ready full-stack boilerplate. | 🛠️ In Development |
+| **DotNet Docker Core** | .NET, Docker, AWS | Microservice backend containerization sandbox. | 🧪 Experimenting |
 
----
-
-### 🎓 Education & Certifications
-
-* 📜 **Diploma of Information Technology** (Back-End Web Development / Advanced Programming) – [Holmesglen TAFE](https://www.holmesglen.edu.au/) (2025)
-* 📜 **Certificate IV in Programming** – [Holmesglen TAFE](https://www.holmesglen.edu.au/)
-* 📜 **Certificate IV in Cybersecurity** – [Holmesglen TAFE](https://www.holmesglen.edu.au/)
+> *Psst... Keep an eye on my repositories! Dynamic open-source builds are deploying soon.*
 
 ---
 
-### 🏆 Achievements
+### 📊 My GitHub Journey
 
-**Cybersecurity Risk Analysis Certification** **Completed:** May 2024 | **Institution:** Holmesglen TAFE  
-**Project:** Small Business Cyber Security Risk Analysis  
-**Supported By:** Victorian Government, Microsoft, NAB, CITT  
-**Summary:** Successfully completed a specialized cybersecurity program targeting small business risk assessment. Developed mitigation strategies in collaboration with industry partners and contributed to real-world security evaluations.
-
----
-
-### 📫 Connect with Me
-
-* 🌐 [LinkedIn](https://www.linkedin.com/in/sofia-mironenko-5ba958255/)
-
-> *"Code is like humor. When you have to explain it, it’s bad."* – **Cory House**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=missessofiachan&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Sofia's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=missessofiachan&layout=compact&theme=radical&border_radius=10" alt="Sofia's Top Languages" width="48%" />
+</p>
 
 ---
 
-⭐️ From [@missessofiachan](https://github.com/missessofiachan)
+### 🎓 Education & Credentials
+
+* ⏳ **Bachelor of Information Systems (Software Development Track)** – *Holmesglen TAFE* (In Progress)
+* 📜 **Diploma of Information Technology** (Advanced Programming & Back-End Web Development) – *Holmesglen TAFE* (2025)
+* 📜 **Certificate IV in Cybersecurity** – *Holmesglen TAFE*
+* 📜 **Certificate IV in Programming** – *Holmesglen TAFE*
+
+#### **Featured Achievement:**
+🥇 **Small Business Cyber Security Risk Analysis Certification** (Completed: May 2024)
+* **Partners:** Victorian Government, Microsoft, NAB, CITT
+* **Focus:** Evaluated local business attack surfaces, built comprehensive risk remediation matrices, and mapped technical security controls to mitigate real-world vulnerabilities.
+
+---
+
+### 🤝 Connect With Me
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/sofia-mironenko-5ba958255/)
+
+<br />
+
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i> — <b>Cory House</b>
+</p>
+
+---
+<p align="center">⭐️ From <a href="https://github.com/missessofiachan">@missessofiachan</a></p>
