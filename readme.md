@@ -136,6 +136,9 @@ I completed my **Diploma of Information Technology (Advanced Programming & Back-
 ### 🤝 Connect With Me
 
 * 💼 [LinkedIn](https://www.google.com/search?q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsofia-mironenko-5ba958255%2F)
+* Steamn https://steamcommunity.com/id/Sovereign616/
+* Discord sopharael616
+  
 
 ---
 
