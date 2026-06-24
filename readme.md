@@ -5,7 +5,7 @@ I am a passionate **Software Developer** and **Cybersecurity Enthusiast** based 
 Technology has fascinated me since I was five years old. Today, I use that lifelong passion to build tools that solve real-world problems and make a positive impact.
 
 ---
-
+![Transgender Flag](https://emojipedia-us.s3.amazonaws.com/source/skype/289/transgender-flag_1f3f3-fe0f-200d-26a7-fe0f.png)
 ### 🚀 Quick Overview
 
 * 🎓 **Current Focus:** Studying a **Bachelor of Information Systems (Software Development path)** at Holmesglen TAFE.
